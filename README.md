@@ -1,9 +1,8 @@
-# Zero-Clock-v2
+# Zero-Clock
 
 ## Description
 
-This is a [LibrePCB](https://librepcb.org) project!
-Just edit this file to add a description about it.
+A Raspberry Pi pHat with a I2C RTC and connections for a LED strip.
 
 ## License
 
